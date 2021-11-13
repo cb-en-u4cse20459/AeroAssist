@@ -1,0 +1,9 @@
+--------------------
+AeroAssist
+--------------------
+draft------13/11/2021
+AeroAssist is a mobile application developed with the primary objective of assisting the passengers in navigation, flight schedules, facilities, distress, emergency evacuations etc. 
+///////////write implementation here///////////////////////////
+The app would serve as a virtual airport guide and assistant throughout the time of its intended purpose and would make navigating easier and reduce hassle and delays at check-ins and 
+would be a great tool for the management to evacuate civilians to safety in certain circumstances and prevents crowding and clustering. It also helps passengers to easily locate stores and  other facilities
+thus enabling rapid and efficient means of commuting inside the airport.
